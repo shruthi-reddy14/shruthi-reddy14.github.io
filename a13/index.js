@@ -4,10 +4,13 @@ const products=[
 {id:3,name:"p3",price:40}
 ];
 
-let news = products.map((v)=>v.price+5)
-console.log(news)
+let newPrice = products.map((v)=>v.price+5)
+ products.forEach((ele)=>console.log(ele.name+" "+newPrice))
 
-news.forEach
+
+
+
+
 
 
 
