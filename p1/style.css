@@ -1,0 +1,38 @@
+.nav{
+     display: flex;
+     justify-content:center;
+     gap: 50px;
+    background-color: burlywood;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.nav a{
+      color: black;
+       font-size: 35px;
+       text-decoration: none;
+}
+
+.header{
+    display: flex;
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+    background-color: khaki ;
+
+}
+
+.p{
+    width: 400px;
+    font-size: 20px;
+    padding-right: 300px;
+}
+
+.img{
+    
+    width:400px;
+    height:300px;
+    border-radius: 30px;
+   
+}
