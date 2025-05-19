@@ -1,15 +1,16 @@
 .nav{
      display: flex;
      justify-content:center;
-     gap: 50px;
-    background-color: burlywood;
+     gap: 50px; 
+      background-color: tan;
     padding-top: 15px;
     padding-bottom: 15px;
+   
 }
 
 .nav a{
       color: black;
-       font-size: 35px;
+       font-size: 30px;
        text-decoration: none;
 }
 
@@ -19,7 +20,7 @@
     padding-left: 100px;
     padding-right: 100px;
     padding-bottom: 20px;
-    background-color: khaki ;
+    background-color: wheat ;
     flex-wrap: wrap;
 
 }
@@ -36,4 +37,89 @@
     height:300px;
     border-radius: 30px;
    
+}
+
+.project{
+
+   background-color: bisque;
+    padding-top: 30px;
+    padding-bottom: 70px;
+    
+}
+.main{
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+     flex-wrap: wrap;
+}
+
+.s{
+    text-align: center;
+    background-color: cornsilk;
+    width: 250px;
+    height: 150px;
+  line-height:20px;  
+  border-radius: 20px;
+  
+
+ 
+ 
+}
+
+.button{
+    background-color: tan;
+    border:solid;
+    border-width: 2px;
+    
+    
+}
+
+.button a{
+    text-decoration: none;
+}
+
+.serv{
+    background-color: rgb(249, 220, 176);
+    padding-top: 30px;
+    padding-bottom: 70px;
+} 
+
+.x{
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+     flex-wrap: wrap;
+     font-size: 19px;
+   
+}
+
+.y{
+    padding-top: 20px; 
+   text-align: center;
+    background-color: cornsilk;
+    width: 350px;
+    height: 130px;
+  line-height:20px;  
+  border-radius: 20px;
+}
+
+.me{
+    padding-top: 30px;
+    padding-bottom: 100px;
+    background-color: bisque;
+}
+
+.cont{
+    text-align: center;
+    background-color: rgb(247, 220, 179);
+    padding-top: 20px;
+    padding-bottom: 30px;
+
+}
+
+.id{
+    text-align: center;
+    background-color: bisque;
 }
